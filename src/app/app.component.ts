@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'ejercicio-jaalbero';
+  public title = 'El ejercicio 1 funciona!';
 }
